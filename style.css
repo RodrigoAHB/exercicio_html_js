@@ -1,0 +1,19 @@
+.container{
+    margin: auto;
+    width: 600px;
+    text-align: center;
+}
+
+.message{
+    display: none;
+}
+
+.success{
+    background-color: rgba(41, 214, 41, 0.656);
+    color: black;
+}
+
+.error{
+    background-color: rgba(255, 1, 1, 0.656);
+    color: #fff;
+}
